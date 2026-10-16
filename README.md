@@ -32,6 +32,6 @@ Data driven insights, creating digital products, and technical support - love sp
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=oluckyyy&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 ---
-[![](https://visitcount.itsvg.in/api?id=JeffreyMawuko&icon=0&color=0)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=oluckyyy&icon=0&color=0)](https://visitcount.itsvg.in)
  📫 https://sluckywilson.online/ | Email or explore my sites from there
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
