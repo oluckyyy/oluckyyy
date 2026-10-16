@@ -1,6 +1,6 @@
 ## Hi there 👋 my people 😄 
 <!--
-**slwilson/oluckyyy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**oluckyyy/oluckyyy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -13,13 +13,14 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+---
 
 # 💫 About Me:
 
-🔭 VtechUB et Employee  😄 (Developing Security Products; Cloud Leadership, Architect, Secure cloud Infrastructures/Resources, Digital Transformation) growing! M.J. Wilson here <br>👯 Skilled in Cloud Resource Designing, Architecting Solutions, and Security; DevSecOps<br>🤝 Let's talk about cloud engineering, zero trust, and access control<br><br>💬 Ask me about<br>⚡ Digital Transformation and Strategies; Cloud Solution Design, Cloud Engineering, and Architecting 🤝
-Always Learning! ================ FinOps strategist & leading migrations in Azure, AWS, GCP, and OCI =====
+🔭   😄 (Lucky is my name) I love to code 👯🤝 💬  🤝
+Data driven insights, creating digital products, and technical support - love sports and i am hope to be a system leader in data driven environment like sports and use sports data for decision support and applications.
 
-Let's Collabo!
+---
 
 # 📊 GitHub Stats:
 
