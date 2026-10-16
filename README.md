@@ -30,7 +30,7 @@ Data driven insights, creating digital products, and technical support - love sp
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=JeffreyMawuko&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=JeffreyMawuko&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=oluckyyy&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 ---
 [![](https://visitcount.itsvg.in/api?id=JeffreyMawuko&icon=0&color=0)](https://visitcount.itsvg.in)
  📫 https://sluckywilson.online/ | Email or explore my sites from there
